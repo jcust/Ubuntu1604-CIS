@@ -197,11 +197,11 @@ ubuntu1604cis_rule_5_2_6: true
 ubuntu1604cis_rule_5_2_7: true
 ubuntu1604cis_rule_5_2_8: true
 ubuntu1604cis_rule_5_2_9: true
-ubuntu1604cis_rule_5_2_10: true
+ubuntu1604cis_rule_5_2_10: false
 ubuntu1604cis_rule_5_2_11: true
 ubuntu1604cis_rule_5_2_12: true
 ubuntu1604cis_rule_5_2_13: true
-ubuntu1604cis_rule_5_2_14: true
+ubuntu1604cis_rule_5_2_14: false
 ubuntu1604cis_rule_5_2_15: true
 ubuntu1604cis_rule_5_2_16: true
 ubuntu1604cis_rule_5_3_1: true
